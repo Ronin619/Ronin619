@@ -1,8 +1,4 @@
 
-<div align="center" width="50">
-  <img src="https://user-images.githubusercontent.com/78436957/222025184-19e2c3b7-64cd-447d-90b3-47fe009313ca.gif" width="400" height="250" /> 
-</div>
-
 <h1>Hello, I'm Eric!</h1>
 <h2>📖 About Me</h2>
 
