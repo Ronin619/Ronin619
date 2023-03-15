@@ -20,7 +20,6 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="Node" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://expressjs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px" style="padding-right:10px;"  /> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="26px" style="padding-right:10px;" /> </a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" /> </a>
