@@ -10,16 +10,6 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eytam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RoninT619) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ronin619&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ronin619&icon=8&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h2>My Languages and Tools:</h2>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
@@ -36,8 +26,21 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" /> </a>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ronin619&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=Ronin619&icon=8&color=1)](https://visitcount.itsvg.in)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
