@@ -7,7 +7,7 @@ I'm a co-creator of ✈️[Tomo-Tabi](https://github.com/tomo-tabi). You can dow
 
 When I'm not building interesting applications, I enjoy shredding on my 🎸 electric guitar, playing 🎮 video games, or practicing 🥋judo.
 
-⚡︎ I'm currently Learning React Native 
+⚡︎ I'm currently Learning React Native, Swift, UIKit
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eytam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RoninT619) 
