@@ -29,8 +29,6 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" /> </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ronin619&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Ronin619&icon=8&color=1)](https://visitcount.itsvg.in)
