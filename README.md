@@ -7,8 +7,7 @@ I'm a co-creator of ✈️[Tomo-Tabi](https://github.com/tomo-tabi). You can dow
 When I'm not building interesting applications, I enjoy shredding on my 🎸 electric guitar, playing 🎮 video games, or practicing 🥋judo.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eytam) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RoninT619) 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eytam/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eytam619@gmail.com?subject=Hello!)
 
 
@@ -27,7 +26,7 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" /> </a> <br>
 
-<h2>📊 GitHub Stats:</h2> 
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
