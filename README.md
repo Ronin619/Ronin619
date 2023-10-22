@@ -7,6 +7,7 @@ I'm a co-creator of ✈️[Tomo-Tabi](https://github.com/tomo-tabi). You can dow
 When I'm not building interesting applications, I enjoy shredding on my 🎸 electric guitar, playing 🎮 video games, or practicing 🥋judo.
 
 ## 🌐 Connect with me:
+[![image](https://img.shields.io/badge/Resume-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://drive.google.com/file/d/1ZeOCkaz2-oWFZbOPzOhCP0uhJqV_rb0x/view?usp=sharing)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eytam/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eytam619@gmail.com?subject=Hello!)
 
