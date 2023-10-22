@@ -22,14 +22,14 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://expressjs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px" style="padding-right:10px;"  /> </a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" /> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" /> </a> <br>
 
-# 📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2> 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Ronin619&icon=8&color=1)](https://visitcount.itsvg.in)
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
