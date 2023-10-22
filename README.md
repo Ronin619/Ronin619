@@ -17,7 +17,6 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26px" style="padding-right:10px;" /> </a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="Node" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://expressjs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px" style="padding-right:10px;"  /> </a>
