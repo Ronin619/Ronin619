@@ -25,10 +25,6 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin619&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 [![](https://visitcount.itsvg.in/api?id=Ronin619&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
