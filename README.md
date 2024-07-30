@@ -15,7 +15,6 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <h2>My Languages and Tools:</h2>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="26px" style="padding-right:10px;" /> </a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
@@ -25,7 +24,6 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 <a href="https://expressjs.com" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26px" style="padding-right:10px;"  /> </a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" style="padding-right:10px;" /> </a> <br>
 
 ## 📊 GitHub Stats:
 
