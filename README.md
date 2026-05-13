@@ -5,7 +5,7 @@ When I'm not building interesting applications, I enjoy shredding on my 🎸 ele
 
 ## 🌐 Connect with me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eytam/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eytam619@gmail.com?subject=Hello!)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erictam.dev@gmail.com?subject=Hello!)
 
 
 <h2>My Languages and Tools:</h2>
